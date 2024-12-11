@@ -1,0 +1,22 @@
+- title: "Deep Learning for Stock Price Prediction"
+  year: 2023
+  authors:
+    - Dr. Faculty Member 1
+    - Dr. Faculty Member 2
+  journal: "Journal of AI Applications"
+  link: "https://doi.org/10.1234/example"
+
+- title: "Natural Language Processing Techniques"
+  year: 2022
+  authors:
+    - Dr. Faculty Member 3
+  conference: "International NLP Conference"
+  link: "https://doi.org/10.5678/example"
+
+- title: "Hybrid Models in Machine Learning"
+  year: 2021
+  authors:
+    - Dr. Faculty Member 1
+    - Dr. Faculty Member 3
+  journal: "Advanced ML Journal"
+  link: "https://doi.org/10.9012/example"
