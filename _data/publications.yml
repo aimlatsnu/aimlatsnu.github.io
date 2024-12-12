@@ -1,22 +1,30 @@
-- title: "Deep Learning for Stock Price Prediction"
-  year: 2023
+- title: "Automatic Detection of Virus Infection Patterns in Foci Images Using Switchable Convolutions"
+  year: 2024
   authors:
-    - Dr. Faculty Member 1
-    - Dr. Faculty Member 2
-  journal: "Journal of AI Applications"
-  link: "https://doi.org/10.1234/example"
+    - Amrita Singh
+    - Ajit Kumar
+    - Snehasis Mukherjee
+    - Naga Suresh Veerapu
+  journal: "IEEE Access"
+  link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10669553"
 
-- title: "Natural Language Processing Techniques"
-  year: 2022
+- title: "An ensemble of self-supervised teachers for minimal student model with auto-tuned hyperparameters via improved Bayesian optimization"
+  year: 2024
   authors:
-    - Dr. Faculty Member 3
-  conference: "International NLP Conference"
-  link: "https://doi.org/10.5678/example"
+    - Jaydeep Kishore
+    - Snehasis Mukherjee
+  journal: "Progress in Artificial Intelligence, Springer"
+  link: "https://link.springer.com/article/10.1007/s13748-024-00329-w"
 
-- title: "Hybrid Models in Machine Learning"
-  year: 2021
+- title: "UnSeGArmaNet: Unsupervised Image Segmentation using Graph Neural Networks with Convolutional ARMA Filters"
+  year: 2024
   authors:
-    - Dr. Faculty Member 1
-    - Dr. Faculty Member 3
-  journal: "Advanced ML Journal"
-  link: "https://doi.org/10.9012/example"
+    - Kovvuri Sai Gopal Reddy
+    - Bodduluri Saran
+    - A. Mudit Adityaja
+    - Saurabh J. Shigwan
+    - Nitin Kumar
+    - Snehasis Mukherjee
+  journal: "British Machine Vision Conference (BMVC) 2024, Glasgow, UK"
+  link: "https://arxiv.org/abs/2410.06114"
+
