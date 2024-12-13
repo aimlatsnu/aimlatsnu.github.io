@@ -1,0 +1,40 @@
+- name: "Ajit Kumar"
+  src: "/images/ajit_pic.jpg"
+  designation: "Assistant Professor"
+  department: "Mathematics"
+
+- name: "Charu Sharma"
+  src: "/images/charu_pic.jpg"
+  designation: "Assistant Professor"
+  department: "Mathematics"
+
+- name: "Niteesh Sahni"
+  src: "images/niteesh_pic.jpg"
+  designation: "Associate Professor"
+  department: "Mathematics"
+
+
+- name: "Nitin Kumar"
+  src: "/images/nitin_pic.jpg"
+  designation: "Assistant Professor"
+  department: "Computer Science"
+
+- name: "Rajeev Kumar Singh"
+  src: "/images/rajeev_pic.jpg"
+  designation: "Professor"
+  department: "Computer Science"
+
+- name: "Saurav Shigwan"
+  src: "/images/saurabh_pic.jpg"
+  designation: "Assistant Professor"
+  department: "Computer Science"
+
+- name: "Shankar Ghosh"
+  src: "/images/shankar_ghosh.jpg"
+  designation: "Assistant Professor"
+  department: "Computer Science"
+
+- name: "Snehsis Mukherjee"
+  src: "/images/snehasis_pic.jpg"
+  designation: "Associate Professor"
+  department: "Computer Science"
