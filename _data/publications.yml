@@ -28,3 +28,12 @@
   journal: "British Machine Vision Conference (BMVC) 2024, Glasgow, UK"
   link: "https://arxiv.org/abs/2410.06114"
 
+
+- title: "SimSAM: Simple Siamese Representation-Based Semantic Affinity Matrix for Unsupervised Image Segmentation"
+  year : 2024
+  authors:
+    - Chanda Grover Kamra
+    - Indra Deep Mastan
+    - Debayan Gupta
+    - Nitin Kumar
+  journal: "IEEE International Conference on Image Processing (ICIP) 2024, Abu Dhabi (Podium Presentation, Graduate Student Travel Award)" 
