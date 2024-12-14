@@ -145,7 +145,11 @@ layout: none
                 <div class="col-md-3 text-center">
                     <img src={{faculty.src}} alt={{faculty.name}} class="img-fluid rounded-circle mb-2"
                         style="width: 150px; height: 150px;">
-                    <h5>{{faculty.name}} </h5>
+                        {% if faculty.url %}
+                            <h5><a href="{{faculty.url}}" class="link-secondary" target="_blank">{{faculty.name}} </a></h5>
+                        {% else %}
+                            <h5>{{faculty.name}} </a></h5>
+                        {% endif %}
                     <p>{{faculty.designation}}<br />{{faculty.department}}</p>
                 </div>
                 {% endfor %}
