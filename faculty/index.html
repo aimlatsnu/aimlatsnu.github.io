@@ -24,61 +24,19 @@ layout: none
                 <div class="col-md-3 text-center">
                     <img src={{faculty.src}} alt={{faculty.name}} class="img-fluid rounded-circle mb-2"
                         style="width: 150px; height: 150px;">
-                        {% if faculty.url %}
-                            <h5><a href="{{faculty.url}}" class="link-secondary" target="_blank">{{faculty.name}} </a></h5>
-                        {% else %}
-                            <h5>{{faculty.name}} </a></h5>
-                        {% endif %}
+                    {% if faculty.url %}
+                    <h5><a href="{{faculty.url}}" class="link-secondary" target="_blank">{{faculty.name}} </a></h5>
+                    {% else %}
+                    <h5>{{faculty.name}} </a></h5>
+                    {% endif %}
                     <p>{{faculty.designation}}<br />{{faculty.department}}</p>
                 </div>
                 {% endfor %}
             </div>
         </section>
-
-
-        <!-- Footer Section -->
-        <footer class="bg-light py-4 mt-5">
-            <div class="container">
-                <div class="row">
-                    <!-- About Section -->
-                    <div class="col-md-4">
-                        <h5>About Us</h5>
-                        <p>
-                            The AI Applications Group at Shiv Nadar University is dedicated to advancing research in
-                            Artificial Intelligence and Machine Learning, solving real-world problems, and shaping the
-                            future of technology.
-                        </p>
-                    </div>
-
-                    <!-- Quick Links -->
-                    <div class="col-md-4">
-                        <h5>Quick Links</h5>
-                        <ul class="list-unstyled">
-                            <li><a href="#AboutUs" class="text-decoration-none">About Us</a></li>
-                            <li><a href="#people" class="text-decoration-none">People</a></li>
-                            <li><a href="#publications" class="text-decoration-none">Publications</a></li>
-                            <li><a href="#events" class="text-decoration-none">Events</a></li>
-                        </ul>
-                    </div>
-
-                    <!-- Contact Info -->
-                    <div class="col-md-4">
-                        <h5>Contact Us</h5>
-                        <ul class="list-unstyled">
-                            <li>Email: <a href="mailto:ajit.kumar@snu.edu.in"
-                                    class="text-decoration-none">ajit.kumar@snu.edu.in</a></li>
-                            <li>Phone: +91-8588811730</li>
-                            <li>Address: Shiv Nadar University, Greater Noida, Uttar Pradesh, India</li>
-                        </ul>
-                    </div>
-                </div>
-                <hr class="my-4">
-                <div class="text-center">
-                    <p class="mb-0">&copy; 2024 AI Applications Group - Shiv Nadar University. All rights reserved.</p>
-                </div>
-            </div>
-        </footer>
     </div>
+
+
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
