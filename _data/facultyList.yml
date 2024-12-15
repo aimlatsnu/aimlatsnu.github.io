@@ -10,7 +10,7 @@
   department: "Mathematics"
 
 - name: "Niteesh Sahni"
-  src: "images/niteesh_pic.jpg"
+  src: "/images/niteesh_pic.jpg"
   designation: "Associate Professor"
   department: "Mathematics"
 
@@ -19,7 +19,7 @@
   src: "/images/nitin_pic.jpg"
   designation: "Assistant Professor"
   department: "Computer Science"
-  url: "faculty/nitin"
+  url: "/faculty/nitin"
 
 - name: "Rajeev Kumar Singh"
   src: "/images/rajeev_pic.jpg"
@@ -40,4 +40,4 @@
   src: "/images/snehasis_pic.jpg"
   designation: "Associate Professor"
   department: "Computer Science"
-  url: "faculty/snehasis"
+  url: "/faculty/snehasis"
