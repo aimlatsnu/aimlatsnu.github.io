@@ -2,7 +2,7 @@
   src: "/images/ajit_pic.jpg"
   designation: "Assistant Professor"
   department: "Mathematics"
-  url: "/faculty/ajit"
+  url: "/people/ajit"
 
 - name: "Charu Sharma"
   src: "/images/charu_pic.jpg"
@@ -19,7 +19,7 @@
   src: "/images/nitin_pic.jpg"
   designation: "Assistant Professor"
   department: "Computer Science"
-  url: "/faculty/nitin"
+  url: "/people/nitin"
 
 - name: "Rajeev Kumar Singh"
   src: "/images/rajeev_pic.jpg"
@@ -40,4 +40,4 @@
   src: "/images/snehasis_pic.jpg"
   designation: "Associate Professor"
   department: "Computer Science"
-  url: "/faculty/snehasis"
+  url: "/people/snehasis"

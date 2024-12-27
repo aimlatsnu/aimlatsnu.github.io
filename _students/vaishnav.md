@@ -2,7 +2,8 @@
 layout: student
 profileName: "Vaishnav Verma"
 photo: "/images/vaishanav_pic.png"
-designationAndDepartment: "Major/year"
+major: "Major"
+department: "Department"
 email: "email"
 phoneNumber: "conacts info"
 summary: "A brief summary of your AIML experience comes here"
