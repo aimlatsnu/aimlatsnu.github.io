@@ -18,7 +18,7 @@ layout: none
         <!-- People Section -->
         <section id="people">
 
-            <h2 class="mb-4">Students</h2>
+            <h2 class="mb-3">Students</h2>
             <div class="row">
                 {% for student in site.students %}
                 <div class="col-md-3 text-center mb-4">
@@ -27,7 +27,6 @@ layout: none
                     <h5><a href="{{student.url}}" class="link-secondary" target="_blank">{{student.profileName}}</a></h5>
                     <p>{{student.major}}<br />{{student.department}}</p>
                 </div>
-                <!-- <p> {{student.profileName}} </p> -->
                 {% endfor %}
             </div>
 
